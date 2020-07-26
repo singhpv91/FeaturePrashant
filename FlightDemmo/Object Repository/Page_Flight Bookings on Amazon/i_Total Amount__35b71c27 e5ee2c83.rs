@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Total Amount__35b71c27 e5ee2c83</name>
+   <tag></tag>
+   <elementGuidId>4e21a346-46b7-4000-8dc3-6c361738fa09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div[4]/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i._35b71c27.e5ee2c83</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_35b71c27 e5ee2c83</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_9142f2ed&quot;]/div[@class=&quot;_87cc0707&quot;]/div[@class=&quot;_72ef1b1f _5af3b108&quot;]/div[@class=&quot;_6dd480f7&quot;]/div[@class=&quot;_5054fece&quot;]/div[@class=&quot;_33280aba&quot;]/label[1]/i[@class=&quot;_35b71c27 e5ee2c83&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div[4]/div/label/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+   </webElementXpaths>
+</WebElementEntity>

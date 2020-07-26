@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(01)__35b71c27 e5ee2c83</name>
+   <tag></tag>
+   <elementGuidId>518019b3-b863-4df4-9392-8a691a81697b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div/div/div/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i._35b71c27.e5ee2c83</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_35b71c27 e5ee2c83</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_9142f2ed&quot;]/div[@class=&quot;_9142f2ed&quot;]/div[@class=&quot;_87cc0707&quot;]/div[@class=&quot;_4520edde _5d5594f8&quot;]/div[@class=&quot;_281a67ac&quot;]/div[@class=&quot;_85ec301a&quot;]/div[@class=&quot;_55fdc360&quot;]/div[@class=&quot;c8b55a23 _45cdc573 _8112a15c&quot;]/div[@class=&quot;_4520edde&quot;]/div[@class=&quot;_33280aba&quot;]/label[1]/i[@class=&quot;_35b71c27 e5ee2c83&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div/div/div/div/div/div/div/label/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+   </webElementXpaths>
+</WebElementEntity>
